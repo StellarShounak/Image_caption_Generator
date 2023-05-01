@@ -1,0 +1,19 @@
+This is Web Application
+----------------------------
+
+Requirements :
+
+python installed
+
+-> python packages needed to be installed :
+ 	1. numpy
+	2. pickle
+	3. Tensorflow keras
+	4. matplotlib
+	5. flask
+
+---------------------------
+
+To run :
+
+just run the app.py , it will generate link to website at localhost port
